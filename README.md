@@ -1,4 +1,4 @@
-### Hi👋 I'm Chitrika Gahtori ![](https://komarev.com/ghpvc/?username=ChitrikaGahtori&style=plastic)
+### Hi <img src="https://raw.githubusercontent.com/ChitrikaGahtori/ChitrikaGahtori/master/wave.gif" width="30px"> I'm Chitrika Gahtori ![](https://komarev.com/ghpvc/?username=ChitrikaGahtori&style=plastic)
 
  
 
