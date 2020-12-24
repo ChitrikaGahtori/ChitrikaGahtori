@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate and become more participatory in the community.
 - 💬 Ask me about designing/Python.
 - 📫 How to reach me: gahtorichitrika7272@gmail.com
-- ⚡ Fun fact: I am good ij designing.
+- ⚡ Fun fact: I am good in designing.
 
  
 
