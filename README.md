@@ -1,4 +1,4 @@
-### Hi👋 I am Chitrika Gahtori ![](https://komarev.com/ghpvc/?username=ChitrikaGahtori&style=plastic)
+### Hi👋 I'm Chitrika Gahtori ![](https://komarev.com/ghpvc/?username=ChitrikaGahtori&style=plastic)
 
  
 
