@@ -11,7 +11,10 @@
 - ⚡ Fun fact: I am good in designing.
 
  
-
+ ✍️🎨 Designing
+ Apart from coding , I also maintain a design page- you can find my designs at https://www.instagram.com/_creativeblog/ 
+ 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChitrikaGahtori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br />
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChitrikaGahtori&show_icons=true)
  
