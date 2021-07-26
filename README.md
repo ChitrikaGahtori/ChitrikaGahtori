@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on something cool🧐.
 - 🌱 I’m currently learning Machine learning .
 - 👯 I’m looking to collaborate and become more participatory in the community.
-- 💬 Ask me about designing/Python/Flask.
+- 💬 Ask me about designing/Python/Flask/Flutter.
 - 📫 How to reach me: gahtorichitrika7272@gmail.com
 - ⚡ Fun fact: I am good in designing.
 
